@@ -1,5 +1,5 @@
 # CrazyFlieGimbal
-CAD files for a crazyflie drone test gimbal. This gimbal was created to support the research activities done by the ENS lab at TU Delft. The original work was created in the summer of 2022, using fusion 360. The work has been exported to both .step and .fbz files. Additionally, the prusa slicer project used to print all components on a prusa i3 at once is included as well. The design has been tested with a Crazyflie 2.1 and is intended to be attached to a standard tripod screw.
+This is an Open Source 3D Printable Gimbal for nano and micro UAVs. The gimbal was designed to test different control algorithms as part of research activities at the ENS lab at TU Delft. The original work was created in the summer of 2022, using fusion 360 and is made for a CrazyFlie drone. The design is available in both .step and .fbz files. Additionally, the prusa slicer project used to print all components on a prusa MK3S at once is included as well. The design has been tested with a Crazyflie 2.1 and is intended to be attached to a standard tripod screw.
 
  For assembly, please refer to this [interactive model](https://teamtumbleweed3.autodesk360.com/g/shares/SH35dfcQT936092f0e431fe7335b7a1c18c6).
 
