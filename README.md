@@ -1,4 +1,9 @@
 # OpenGimbal
+
+
+[![DOI](https://zenodo.org/badge/615829443.svg)](https://zenodo.org/badge/latestdoi/615829443)
+
+
 OpenGimbal is a specially designed 3 DoF test bench that caters to the unique requirements of mUAVs and nUAVs. This test bench allows for unrestricted rotational motion, enabling comprehensive experimentation and evaluation of these UAVs. Our approach focuses on simplicity and accessibility. We developed an open-source, 3D printable electro-mechanical  design that emphasizes minimal size and complexity. This design facilitates easy replication and customization, making it widely accessible to researchers and developers.
 
 The CAD design files are available in both .step and .fbz. The Prusa slicer project used to print all components on a Prusa MK3S at once is also included. The design has been tested with a Crazyflie 2.1 and is intended to be attached to a standard tripod screw or kept on a table top with a suitable base.
