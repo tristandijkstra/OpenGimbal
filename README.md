@@ -1,7 +1,10 @@
-# Open Gimbal
-This is an Open Source 3D Printable Gimbal for nano and micro UAVs. The gimbal was designed to test different control algorithms as part of research activities at the ENS lab at TU Delft. The original work was created in the summer of 2022, using Fusion 360 and is made for a CrazyFlie drone. The design is available in both .step and .fbz files. The Prusa slicer project used to print all components on a Prusa MK3S at once is also included. The design has been tested with a Crazyflie 2.1 and is intended to be attached to a standard tripod screw.
+# OpenGimbal
+OpenGimbal is a specially designed 3 DoF test bench that caters to the unique requirements of mUAVs and nUAVs. This test bench allows for unrestricted rotational motion, enabling comprehensive experimentation and evaluation of these UAVs. Our approach focuses on simplicity and accessibility. We developed an open-source, 3D printable electro-mechanical  design that emphasizes minimal size and complexity. This design facilitates easy replication and customization, making it widely accessible to researchers and developers.
 
- For assembly, please refer to this [interactive model](https://teamtumbleweed3.autodesk360.com/g/shares/SH35dfcQT936092f0e431fe7335b7a1c18c6).
+The CAD design files are available in both .step and .fbz. The Prusa slicer project used to print all components on a Prusa MK3S at once is also included. The design has been tested with a Crazyflie 2.1 and is intended to be attached to a standard tripod screw or kept on a table top with a suitable base.
+
+For assembly of the tripod version, please refer to this [interactive model](https://teamtumbleweed3.autodesk360.com/g/shares/SH35dfcQT936092f0e431fe7335b7a1c18c6).
+Further we also have a browser based version: [onshape link](https://cad.onshape.com/documents/f2281a1593cecd1e86d04a9a/w/4fd3c36d2f4a6c3e1b4013a5/e/7b1d20f3bce717410d81325e)
 
 ### Parts
 
@@ -24,6 +27,9 @@ This is an Open Source 3D Printable Gimbal for nano and micro UAVs. The gimbal w
 | m2 Threaded insets                                        | Drone attachment |   2 |
 
 
-### Galery
-![Alt text](doc/gimbalfusion.png)
-![Alt text](doc/gimbal.png)
+### Gallery
+#### Tripod Version
+<img src="doc/TripodVersionCAD.png" alt="Tripod Version" style="zoom:25%;" />
+
+#### Tabletop Version
+<img src="doc/DesktopVersionCAD.png" alt="Tabletop Version" style="zoom:25%;" />
