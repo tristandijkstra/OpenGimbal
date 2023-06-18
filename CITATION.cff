@@ -1,0 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: OpenGimbal
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Suryansh
+    family-names: Sharma
+    email: Suryansh.Sharma@tudelft.nl
+    affiliation: TU Delft
+    orcid: 'https://orcid.org/0000-0001-7534-6848'
+  - given-names: 'Tristan '
+    family-names: Dijkstra
+    affiliation: TU Delft
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8052218
+abstract: >-
+  OpenGimbal is a specially designed 3 DoF test bench that
+  caters to the unique requirements of mUAVs and nUAVs. This
+  test bench allows for unrestricted rotational motion,
+  enabling comprehensive experimentation and evaluation of
+  these UAVs. Our approach focuses on simplicity and
+  accessibility. We developed an open-source, 3D printable
+  electro-mechanical design that emphasizes minimal size and
+  complexity. This design facilitates easy replication and
+  customization, making it widely accessible to researchers
+  and developers.
+keywords:
+  - nanoUAV
+  - ' Test gimal'
+  - 'Gyroscopic test bench '
+  - ' Crazyflie drone'
+license: GPL-3.0
+version: V1.0
+date-released: '2023-06-18'
