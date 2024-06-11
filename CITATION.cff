@@ -5,7 +5,7 @@ cff-version: 1.2.0
 title: OpenGimbal
 message: >-
   If you use this software, please cite it using the
-  metadata from this file.
+  using the DOI / citation present in the README file.
 type: software
 authors:
   - given-names: Suryansh
