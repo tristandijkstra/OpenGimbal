@@ -1,7 +1,10 @@
 # OpenGimbal
 
+If you do end up using the platform for research then you can cite us using the details below:
 
-[![DOI](https://zenodo.org/badge/615829443.svg)](https://zenodo.org/badge/latestdoi/615829443)
+@ARTICLE{10225720, author={Sharma, Suryansh and Dijkstra, Tristan and Prasad, Ranga Venkatesha}, journal={IEEE Sensors Letters}, title={Open Gimbal: A 3 Degrees of Freedom Open Source Sensing and Testing Platform for Nano- and Micro-UAVs}, year={2023}, volume={7}, number={9}, pages={1-4}, doi={10.1109/LSENS.2023.3307121}}
+
+[![DOI](https://zenodo.org/badge/615829443.svg)](https://www.doi.org/10.1109/LSENS.2023.3307121)
 
 
 OpenGimbal is a specially designed 3 DoF test bench that caters to the unique requirements of mUAVs and nUAVs. This test bench allows for unrestricted rotational motion, enabling comprehensive experimentation and evaluation of these UAVs. Our approach focuses on simplicity and accessibility. We developed an open-source, 3D printable electro-mechanical  design that emphasizes minimal size and complexity. This design facilitates easy replication and customization, making it widely accessible to researchers and developers.
